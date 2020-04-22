@@ -1,0 +1,7 @@
+G:\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+G:\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+G:\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+G:\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+G:\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+G:\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+G:\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb

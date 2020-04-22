@@ -1,0 +1,16 @@
+G:\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.deps.json
+G:\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+G:\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+G:\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfoInputs.cache
+G:\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfo.cs
+G:\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.dll
+G:\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.pdb
+G:\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.csprojAssemblyReference.cache
+F:\ElectionManagement\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.deps.json
+F:\ElectionManagement\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+F:\ElectionManagement\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+F:\ElectionManagement\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.csprojAssemblyReference.cache
+F:\ElectionManagement\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfoInputs.cache
+F:\ElectionManagement\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfo.cs
+F:\ElectionManagement\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.dll
+F:\ElectionManagement\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.pdb

@@ -1,0 +1,8 @@
+G:\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+G:\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+G:\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+G:\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+G:\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+G:\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+G:\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+G:\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
